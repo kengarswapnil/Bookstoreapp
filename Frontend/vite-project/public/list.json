@@ -1,0 +1,90 @@
+[
+  {
+    "id":1,
+    "name":"story book",
+    "title": "Tales of Courage and Wisdom",
+    "price":"0",
+    "category":"free",
+    "image":"/book.jpg"
+    
+
+  },
+  {
+    "id":2,
+    "name":"comedy book",
+    "title": "Laugh Out Loud: A Collection of Jokes and Stories",
+    "price":"20",
+    "category":"free",
+   "image":"/book.jpg"
+    
+
+  },
+  {
+    "id":3,
+    "name":"Music book",
+    "title": "The Art of Melody: A Guide to Music and Harmony",
+    "price":"0",
+    "category":"music",
+    "image":"/book.jpg"
+    
+
+  },
+  {
+    "id":4,
+    "name":"Food book",
+    "title": "Delicious Recipes: Cooking Made Simple",
+    "price":"0",
+    "category":"free",
+    "image":"/book.jpg"
+
+  },
+  {
+    "id":5,
+    "name":"Movie book",
+    "title":"Cinematic Wonders: Exploring the World of Film",
+    "price":"0",
+    "category":"free",
+    "image":"/book.jpg"
+
+  },
+  
+  {
+    "id":6,
+    "name":"story book",
+    "title": "Tales of Courage and Wisdom",
+    "price":"0",
+    "category":"free",
+    "image":"/book.jpg"
+    
+
+  },
+  {
+    "id":7,
+    "name":"comedy book",
+    "title": "Laugh Out Loud: A Collection of Jokes and Stories",
+    "price":"20",
+    "category":"free",
+   "image":"/book.jpg"
+    
+
+  },
+  {
+    "id":8,
+    "name":"Music book",
+    "title": "The Art of Melody: A Guide to Music and Harmony",
+    "price":"0",
+    "category":"music",
+    "image":"/book.jpg"
+    
+
+  },
+  {
+    "id":9,
+    "name":"Food book",
+    "title": "Delicious Recipes: Cooking Made Simple",
+    "price":"0",
+    "category":"free",
+    "image":"/book.jpg"
+
+  }
+]
