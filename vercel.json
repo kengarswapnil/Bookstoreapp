@@ -4,10 +4,15 @@
     {
       "src": "Frontend/vite-project/package.json",
       "use": "@vercel/static-build",
-      "config": { "distDir": "dist" }
+      "config": {
+        "distDir": "dist"
+      }
     }
   ],
   "routes": [
-    { "src": "/(.*)", "dest": "Frontend/vite-project/index.html" }
+    {
+      "src": "/(.*)",
+      "dest": "/Frontend/vite-project/index.html"
+    }
   ]
 }
